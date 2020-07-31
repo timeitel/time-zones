@@ -15,6 +15,7 @@ class _LoadingState extends State<Loading> {
 
     // request time from api
     await instance.getTime();
+    print(instance.time);
 
     Navigator.pushReplacementNamed(context, '/home', arguments: {
       'location': instance.location,
