@@ -1,3 +1,3 @@
 # Time Zones
 
-A flutter app for choosing locations around the world and getting the current time. 
+A mobile app for choosing locations around the world and getting the current time. 
